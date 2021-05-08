@@ -1,0 +1,25 @@
+leafImages/
+    predict/
+        Acer Palmatum/
+        Cedrus Deodara/
+        Cercis Chinensis/
+        Citrus Reticulata Blanco/
+        Ginkgo Biloba/
+        Liriodendron Chinense/
+        Nerium Oleander/
+    test/
+        Acer Palmatum/
+        Cedrus Deodara/
+        Cercis Chinensis/
+        Citrus Reticulata Blanco/
+        Ginkgo Biloba/
+        Liriodendron Chinense/
+        Nerium Oleander/
+    train/
+        Acer Palmatum/
+        Cedrus Deodara/
+        Cercis Chinensis/
+        Citrus Reticulata Blanco/
+        Ginkgo Biloba/
+        Liriodendron Chinense/
+        Nerium Oleander/
