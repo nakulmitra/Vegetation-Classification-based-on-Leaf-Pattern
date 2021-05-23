@@ -12,6 +12,6 @@ Double Click on .ipynb file. It will ask you to open with Google Colaboratory. C
 
 After you open the .ipynb file in Google Colaboratory then you first need to click on connect button
 
-Click on the Run button there is a option of run all cell, click on it
+Click on the Runtime button there is a option of run all, click on it
 
 Code and Observation will be uploaded soon.
