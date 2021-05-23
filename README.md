@@ -8,7 +8,7 @@ Convert the Dataset into zip folder
 
 Upload the .ipynb and Dataset zip file into your Google Drive
 
-Double Click on .inpy file. It will ask you to open with Google Colaboratory. Click on it. If there is no option of Google Colaboratory in your drive then you need to install Google Colaboratory
+Double Click on .ipynb file. It will ask you to open with Google Colaboratory. Click on it. If there is no option of Google Colaboratory in your drive then you need to install Google Colaboratory
 
 After you open the .ipynb file in Google Colaboratory then you first need to click on connect button
 
