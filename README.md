@@ -3,7 +3,7 @@
 ## How to run the Project in your system 
 
 
-## Step 1: First download the zip file and then extract the zip folder
+## Step 1: First download the zip file and then extract the zip file
 ![](README_Images/download_zip_file.PNG)
 
 
