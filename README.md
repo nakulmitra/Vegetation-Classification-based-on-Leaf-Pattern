@@ -1,4 +1,5 @@
 # Vegetation-Classification-based-on-Leaf-Pattern
+The main purpose to build this project is to identify the class of leaf by extracting the features from it.
 
 ## How to run the Project in your system 
 
