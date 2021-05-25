@@ -8,10 +8,12 @@
 
 
 ## Step 2: Convert the Dataset folder into zip file
+Select Dataset Folder --> Right Click --> Send to --> Compressed (zipped) folder
 ![](README_Images/dataset.PNG)
 
 
 ## Step 3: Upload the .ipynb and Dataset zip file into your Google Drive
+New --> File upload --> select file
 ![](README_Images/upload_files.PNG)
 
 
@@ -25,7 +27,7 @@ It will ask you to open with Google Colaboratory. Click on it. If there is no op
 
 
 ## Step 6: Click on the Runtime Button 
-There is a option of run all, click on it
+Runtime --> Run all
 ![](README_Images/runtime.PNG)
 
 
