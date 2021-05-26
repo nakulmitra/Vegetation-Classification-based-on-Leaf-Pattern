@@ -5,6 +5,7 @@ The main purpose to build this project is to identify the class of leaf by extra
 
 
 ## Step 1: First download the zip file and then extract the zip file
+Click on Code --> Download ZIP
 
 ![](README_Images/download_zip_file.PNG)
 
